@@ -178,7 +178,7 @@ GameObject:
   - component: {fileID: 1093877898560102612}
   - component: {fileID: 1742174577280742638}
   m_Layer: 0
-  m_Name: SpikeyBallPrefab
+  m_Name: EnemyPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
