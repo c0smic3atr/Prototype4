@@ -36,6 +36,9 @@ public class ColorChangePickUp : MonoBehaviour
 
             //change the color
             playerMr.material = newMaterial;
+
+            //Start the coroutine!!!!
+            StartCoroutine(ColorReset());
         }
     }
 
